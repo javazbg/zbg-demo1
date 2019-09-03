@@ -7,6 +7,12 @@
     <groupId>cn.itcast</groupId>
     <artifactId>demo1</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+<dependencies>
+        <dependency>
+            <groupId>error</groupId>
+            <artifactId>ju</artifactId>
+            <version>unknown</version>
+        </dependency>
+    </dependencies>
 
 </project>
